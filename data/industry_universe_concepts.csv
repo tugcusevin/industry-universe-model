@@ -1,0 +1,4 @@
+concept_id,label_en,label_tr,layer,primary_axis,secondary_axes,function,nature,level
+C001,Kaizen,Kaizen,Lean,Operational,"Human",Stability,Operational,Micro
+C002,Kanban,Kanban,Lean,Operational,"Digital",Stability,Operational,Micro
+C003,Just-in-Time,Tam Zamanında Üretim,Lean,Operational,"Sustainability",Stability,Operational,Meso
