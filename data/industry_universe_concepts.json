@@ -1,1 +1,222 @@
-
+[
+  {
+    "concept_id": "C001",
+    "label_en": "Kaizen",
+    "label_tr": "Kaizen",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Human"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C002",
+    "label_en": "Kanban",
+    "label_tr": "Kanban",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Digital"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C003",
+    "label_en": "Just-in-Time",
+    "label_tr": "Tam Zamanında Üretim",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Sustainability"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C004",
+    "label_en": "Value Stream Mapping",
+    "label_tr": "Değer Akış Haritalama",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Digital"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C005",
+    "label_en": "5S",
+    "label_tr": "5S",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Human", "Sustainability"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C006",
+    "label_en": "SMED",
+    "label_tr": "SMED (Hızlı Kalıp Değişimi)",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": [],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C007",
+    "label_en": "Total Productive Maintenance",
+    "label_tr": "Toplam Verimli Bakım",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Autonomy"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C008",
+    "label_en": "Poka-Yoke",
+    "label_tr": "Poka-Yoke (Hata Önleme)",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": [],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C009",
+    "label_en": "Andon",
+    "label_tr": "Andon",
+    "layer": "Lean",
+    "primary_axis": "Operational",
+    "secondary_axes": ["Autonomy"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C010",
+    "label_en": "Gemba Walk",
+    "label_tr": "Gemba Yürüyüşü",
+    "layer": "Lean",
+    "primary_axis": "Human",
+    "secondary_axes": ["Operational"],
+    "function": "Stability",
+    "nature": "Operational",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C011",
+    "label_en": "Industrial Internet of Things",
+    "label_tr": "Endüstriyel Nesnelerin İnterneti",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": ["Operational"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C012",
+    "label_en": "Cyber-Physical Systems",
+    "label_tr": "Siber-Fiziksel Sistemler",
+    "layer": "Industry4",
+    "primary_axis": "Autonomy",
+    "secondary_axes": ["Digital"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C013",
+    "label_en": "Cloud Computing",
+    "label_tr": "Bulut Bilişim",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": [],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C014",
+    "label_en": "Edge Computing",
+    "label_tr": "Uç Bilişim",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": ["Operational"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C015",
+    "label_en": "Big Data Analytics",
+    "label_tr": "Büyük Veri Analitiği",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": ["Autonomy"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C016",
+    "label_en": "Manufacturing Execution System",
+    "label_tr": "Üretim Yürütme Sistemi",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": ["Operational"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Meso"
+  },
+  {
+    "concept_id": "C017",
+    "label_en": "Digital Twin",
+    "label_tr": "Dijital İkiz",
+    "layer": "Industry4",
+    "primary_axis": "Digital",
+    "secondary_axes": ["Autonomy"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C018",
+    "label_en": "Predictive Maintenance",
+    "label_tr": "Tahmine Dayalı Bakım",
+    "layer": "Industry4",
+    "primary_axis": "Autonomy",
+    "secondary_axes": ["Operational", "Digital"],
+    "function": "Capacity",
+    "nature": "Technological",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C019",
+    "label_en": "Collaborative Robots",
+    "label_tr": "İşbirlikçi Robotlar",
+    "layer": "Industry5",
+    "primary_axis": "Human",
+    "secondary_axes": ["Autonomy"],
+    "function": "Value",
+    "nature": "Hybrid",
+    "level": "Micro"
+  },
+  {
+    "concept_id": "C020",
+    "label_en": "Human-Centric Production",
+    "label_tr": "İnsan Merkezli Üretim",
+    "layer": "Industry5",
+    "primary_axis": "Human",
+    "secondary_axes": [],
+    "function": "Value",
+    "nature": "Normative",
+    "level": "Meso"
+  }
+]
