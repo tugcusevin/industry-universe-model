@@ -1,0 +1,700 @@
+  {
+    "concept_id": "C001",
+    "label_en": "Kaizen",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C002",
+    "label_en": "Kanban",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C003",
+    "label_en": "Just in Time",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C004",
+    "label_en": "Value Stream Mapping",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C005",
+    "label_en": "5S",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C006",
+    "label_en": "SMED",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C007",
+    "label_en": "Total Productive Maintenance",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C008",
+    "label_en": "Poka Yoke",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C009",
+    "label_en": "Andon",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C010",
+    "label_en": "Gemba Walk",
+    "layer": "Lean",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C011",
+    "label_en": "Heijunka",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C012",
+    "label_en": "Takt Time",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C013",
+    "label_en": "Standard Work",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C014",
+    "label_en": "Continuous Flow",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C015",
+    "label_en": "Muda",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C016",
+    "label_en": "Mura",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C017",
+    "label_en": "Muri",
+    "layer": "Lean",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C018",
+    "label_en": "Cellular Manufacturing",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C019",
+    "label_en": "Visual Management",
+    "layer": "Lean",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C020",
+    "label_en": "Cross Training",
+    "layer": "Lean",
+    "axis": "Human",
+    "status": "core"
+  },
+    {
+    "concept_id": "C021",
+    "label_en": "Industrial Internet of Things",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C022",
+    "label_en": "Cyber Physical Systems",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C023",
+    "label_en": "Cloud Computing",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C024",
+    "label_en": "Edge Computing",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C025",
+    "label_en": "Big Data Analytics",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C026",
+    "label_en": "Manufacturing Execution System",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C027",
+    "label_en": "Digital Twin",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C028",
+    "label_en": "Predictive Maintenance",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C029",
+    "label_en": "SCADA Systems",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C030",
+    "label_en": "Cybersecurity",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C031",
+    "label_en": "System Interoperability",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C032",
+    "label_en": "Digital Thread",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C033",
+    "label_en": "Process Mining",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C034",
+    "label_en": "Real Time Analytics",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C035",
+    "label_en": "Industrial AI",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C036",
+    "label_en": "Advanced Process Control",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C037",
+    "label_en": "Simulation Based Optimization",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C038",
+    "label_en": "Quality 4.0",
+    "layer": "Industry4",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C039",
+    "label_en": "Computer Vision Inspection",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C040",
+    "label_en": "Autonomous Mobile Robots",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C041",
+    "label_en": "Automated Guided Vehicles",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C042",
+    "label_en": "Robotic Assembly",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C043",
+    "label_en": "Robotic Process Automation",
+    "layer": "Industry4",
+    "axis": "Autonomy",
+    "status": "core"
+  },
+  {
+    "concept_id": "C044",
+    "label_en": "Smart Factory",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C045",
+    "label_en": "Digital Supply Chain",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C046",
+    "label_en": "End to End Traceability",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C047",
+    "label_en": "Smart Logistics",
+    "layer": "Industry4",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C048",
+    "label_en": "Additive Manufacturing",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C049",
+    "label_en": "Mass Customization",
+    "layer": "Industry4",
+    "axis": "Operational",
+    "status": "core"
+  },
+  {
+    "concept_id": "C050",
+    "label_en": "Digital Work Instructions",
+    "layer": "Industry4",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C051",
+    "label_en": "Wearable Devices",
+    "layer": "Industry4",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C052",
+    "label_en": "Human Centric Production",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C053",
+    "label_en": "Collaborative Robots",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C054",
+    "label_en": "Human Machine Collaboration",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C055",
+    "label_en": "Human Centered Design",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C056",
+    "label_en": "Human in the Loop AI",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C057",
+    "label_en": "Upskilling and Reskilling",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C058",
+    "label_en": "Worker Well Being",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C059",
+    "label_en": "Safety by Design",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C060",
+    "label_en": "Circular Economy",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C061",
+    "label_en": "Carbon Footprint Management",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C062",
+    "label_en": "Energy Efficiency",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C063",
+    "label_en": "Renewable Energy Integration",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C064",
+    "label_en": "Sustainable Supply Chain",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C065",
+    "label_en": "Industrial Resilience",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C066",
+    "label_en": "Social Sustainability",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C067",
+    "label_en": "Trustworthy AI",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C068",
+    "label_en": "AI Governance",
+    "layer": "Industry5",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C069",
+    "label_en": "Data Governance",
+    "layer": "Industry5",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C070",
+    "label_en": "Governance Risk and Compliance",
+    "layer": "Industry5",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C071",
+    "label_en": "Human Centered Innovation",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C072",
+    "label_en": "Industrial Ecosystems",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C073",
+    "label_en": "Industrial Platformization",
+    "layer": "Industry5",
+    "axis": "Digital",
+    "status": "core"
+  },
+  {
+    "concept_id": "C074",
+    "label_en": "Adaptive Organizations",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C075",
+    "label_en": "Future of Work in Industry",
+    "layer": "Industry5",
+    "axis": "Human",
+    "status": "core"
+  },
+  {
+    "concept_id": "C076",
+    "label_en": "Product as a Service",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C077",
+    "label_en": "Sustainability Strategy",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+  {
+    "concept_id": "C078",
+    "label_en": "Life Cycle Assessment",
+    "layer": "Industry5",
+    "axis": "Sustainability",
+    "status": "core"
+  },
+{
+  "concept_id": "C079",
+  "label_en": "Industrial Internet Platforms",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C080",
+  "label_en": "Industrial Data Spaces",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C081",
+  "label_en": "Industrial Data Analytics",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C082",
+  "label_en": "Industrial Automation Systems",
+  "layer": "Industry4",
+  "axis": "Operational",
+  "status": "core"
+},
+{
+  "concept_id": "C083",
+  "label_en": "Production Data Management",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C084",
+  "label_en": "Industrial Data Governance",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C085",
+  "label_en": "Human AI Collaboration",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C086",
+  "label_en": "Responsible Automation",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C087",
+  "label_en": "Human Digital Interaction",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C088",
+  "label_en": "Human Centered Work Systems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C089",
+  "label_en": "Sustainable Manufacturing",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "core"
+},
+{
+  "concept_id": "C090",
+  "label_en": "Green Manufacturing",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "core"
+},
+{
+  "concept_id": "C091",
+  "label_en": "Resource Efficient Production",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "core"
+},
+{
+  "concept_id": "C092",
+  "label_en": "Industrial Decarbonization",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "core"
+},
+{
+  "concept_id": "C093",
+  "label_en": "Industrial Sustainability Governance",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "core"
+},
+{
+  "concept_id": "C094",
+  "label_en": "Digital Sustainability",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C095",
+  "label_en": "Industrial Knowledge Systems",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C096",
+  "label_en": "Collaborative Industrial Networks",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C097",
+  "label_en": "Industrial Innovation Systems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C098",
+  "label_en": "Industrial Digital Ecosystems",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "core"
+},
+{
+  "concept_id": "C099",
+  "label_en": "Industrial Transformation Systems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "core"
+},
+{
+  "concept_id": "C100",
+  "label_en": "Next Generation Manufacturing Systems",
+  "layer": "Industry5",
+  "axis": "Operational",
+  "status": "core"
+}
