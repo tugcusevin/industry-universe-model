@@ -697,4 +697,355 @@
   "layer": "Industry5",
   "axis": "Operational",
   "status": "core"
+},
+{
+  "concept_id": "C101",
+  "label_en": "Pull Production",
+  "layer": "Lean",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C102",
+  "label_en": "Lean Leadership",
+  "layer": "Lean",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C103",
+  "label_en": "Lean Culture",
+  "layer": "Lean",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C104",
+  "label_en": "Line Balancing",
+  "layer": "Lean",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C105",
+  "label_en": "Standardized Work Instructions",
+  "layer": "Lean",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C106",
+  "label_en": "Industrial Data Architecture",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C107",
+  "label_en": "Industrial Data Integration",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C108",
+  "label_en": "Industrial Data Visualization",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C109",
+  "label_en": "Industrial Edge Intelligence",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C110",
+  "label_en": "Industrial AI Systems",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C111",
+  "label_en": "Industrial Decision Intelligence",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C112",
+  "label_en": "Digital Production Control",
+  "layer": "Industry4",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C113",
+  "label_en": "Autonomous Production Systems",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C114",
+  "label_en": "Human AI Decision Support",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C115",
+  "label_en": "Human Digital Skills",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C116",
+  "label_en": "Human Technology Interaction",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C117",
+  "label_en": "Sustainable Industrial Systems",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C118",
+  "label_en": "Circular Production Systems",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C119",
+  "label_en": "Industrial Energy Optimization",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C120",
+  "label_en": "Digital Industrial Governance",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C121",
+  "label_en": "Industrial Knowledge Graphs",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C122",
+  "label_en": "Semantic Manufacturing Systems",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C123",
+  "label_en": "Industrial Data Spaces Architecture",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C124",
+  "label_en": "Industrial Data Collaboration",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C125",
+  "label_en": "Industrial Cloud Platforms",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C126",
+  "label_en": "Industrial Edge Platforms",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C127",
+  "label_en": "Smart Production Planning",
+  "layer": "Industry4",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C128",
+  "label_en": "AI Driven Production Optimization",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C129",
+  "label_en": "Autonomous Decision Systems",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C130",
+  "label_en": "Human AI Governance",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C131",
+  "label_en": "Human Centered Work Design",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C132",
+  "label_en": "Human Digital Empowerment",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C133",
+  "label_en": "Human Augmented Work Systems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C134",
+  "label_en": "Sustainable Industrial Transformation",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C135",
+  "label_en": "Industrial Decarbonization Strategies",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C136",
+  "label_en": "Resource Circularity Systems",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C137",
+  "label_en": "Sustainable Value Networks",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C138",
+  "label_en": "Industrial Innovation Ecosystems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C139",
+  "label_en": "Collaborative Industrial Platforms",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C140",
+  "label_en": "Industrial Transformation Systems",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C141",
+  "label_en": "Industrial Strategic Foresight",
+  "layer": "Industry5",
+  "axis": "Human",
+  "status": "extended"
+},
+{
+  "concept_id": "C142",
+  "label_en": "Future Manufacturing Networks",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C143",
+  "label_en": "Resilient Manufacturing Systems",
+  "layer": "Industry5",
+  "axis": "Sustainability",
+  "status": "extended"
+},
+{
+  "concept_id": "C144",
+  "label_en": "Adaptive Production Systems",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C145",
+  "label_en": "Self Optimizing Production",
+  "layer": "Industry4",
+  "axis": "Autonomy",
+  "status": "extended"
+},
+{
+  "concept_id": "C146",
+  "label_en": "Industrial Data Intelligence",
+  "layer": "Industry4",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C147",
+  "label_en": "Smart Industrial Control Systems",
+  "layer": "Industry4",
+  "axis": "Operational",
+  "status": "extended"
+},
+{
+  "concept_id": "C148",
+  "label_en": "Digital Industrial Ecosystems",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C149",
+  "label_en": "Industrial Platform Economy",
+  "layer": "Industry5",
+  "axis": "Digital",
+  "status": "extended"
+},
+{
+  "concept_id": "C150",
+  "label_en": "Next Generation Industrial Systems",
+  "layer": "Industry5",
+  "axis": "Operational",
+  "status": "extended"
 }
+]
