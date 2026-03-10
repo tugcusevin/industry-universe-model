@@ -1,0 +1,436 @@
+[
+  {
+    "source": "C001",
+    "target": "C013",
+    "relation": "supports"
+  },
+  {
+    "source": "C002",
+    "target": "C101",
+    "relation": "supports"
+  },
+  {
+    "source": "C003",
+    "target": "C014",
+    "relation": "supports"
+  },
+  {
+    "source": "C004",
+    "target": "C044",
+    "relation": "supports"
+  },
+  {
+    "source": "C005",
+    "target": "C013",
+    "relation": "supports"
+  },
+  {
+    "source": "C007",
+    "target": "C027",
+    "relation": "supports"
+  },
+  {
+    "source": "C011",
+    "target": "C044",
+    "relation": "supports"
+  },
+  {
+    "source": "C020",
+    "target": "C052",
+    "relation": "extends"
+  },
+  {
+    "source": "C020",
+    "target": "C054",
+    "relation": "extends"
+  },
+  {
+    "source": "C020",
+    "target": "C057",
+    "relation": "extends"
+  },
+  {
+    "source": "C021",
+    "target": "C026",
+    "relation": "enables"
+  },
+  {
+    "source": "C022",
+    "target": "C026",
+    "relation": "enables"
+  },
+  {
+    "source": "C024",
+    "target": "C026",
+    "relation": "enables"
+  },
+  {
+    "source": "C025",
+    "target": "C027",
+    "relation": "enables"
+  },
+  {
+    "source": "C026",
+    "target": "C027",
+    "relation": "enables"
+  },
+  {
+    "source": "C027",
+    "target": "C028",
+    "relation": "enables"
+  },
+  {
+    "source": "C028",
+    "target": "C035",
+    "relation": "enables"
+  },
+  {
+    "source": "C030",
+    "target": "C044",
+    "relation": "enables"
+  },
+  {
+    "source": "C031",
+    "target": "C044",
+    "relation": "enables"
+  },
+  {
+    "source": "C033",
+    "target": "C044",
+    "relation": "enables"
+  },
+  {
+    "source": "C034",
+    "target": "C027",
+    "relation": "supports"
+  },
+  {
+    "source": "C035",
+    "target": "C044",
+    "relation": "supports"
+  },
+  {
+    "source": "C043",
+    "target": "C045",
+    "relation": "enables"
+  },
+  {
+    "source": "C044",
+    "target": "C045",
+    "relation": "enables"
+  },
+  {
+    "source": "C044",
+    "target": "C046",
+    "relation": "enables"
+  },
+  {
+    "source": "C044",
+    "target": "C047",
+    "relation": "enables"
+  },
+  {
+    "source": "C044",
+    "target": "C049",
+    "relation": "enables"
+  },
+  {
+    "source": "C045",
+    "target": "C064",
+    "relation": "extends"
+  },
+  {
+    "source": "C052",
+    "target": "C067",
+    "relation": "depends_on"
+  },
+  {
+    "source": "C053",
+    "target": "C055",
+    "relation": "supports"
+  },
+  {
+    "source": "C055",
+    "target": "C067",
+    "relation": "depends_on"
+  },
+  {
+    "source": "C056",
+    "target": "C055",
+    "relation": "supports"
+  },
+  {
+    "source": "C057",
+    "target": "C075",
+    "relation": "supports"
+  },
+  {
+    "source": "C059",
+    "target": "C075",
+    "relation": "supports"
+  },
+  {
+    "source": "C060",
+    "target": "C077",
+    "relation": "supports"
+  },
+  {
+    "source": "C061",
+    "target": "C077",
+    "relation": "supports"
+  },
+  {
+    "source": "C062",
+    "target": "C077",
+    "relation": "supports"
+  },
+  {
+    "source": "C063",
+    "target": "C077",
+    "relation": "supports"
+  },
+  {
+    "source": "C064",
+    "target": "C077",
+    "relation": "supports"
+  },
+  {
+    "source": "C067",
+    "target": "C070",
+    "relation": "supports"
+  },
+  {
+    "source": "C068",
+    "target": "C070",
+    "relation": "supports"
+  },
+  {
+    "source": "C069",
+    "target": "C070",
+    "relation": "supports"
+  },
+  {
+    "source": "C071",
+    "target": "C072",
+    "relation": "supports"
+  },
+  {
+    "source": "C072",
+    "target": "C073",
+    "relation": "supports"
+  },
+  {
+    "source": "C073",
+    "target": "C148",
+    "relation": "extends"
+  },
+  {
+    "source": "C074",
+    "target": "C075",
+    "relation": "supports"
+  },
+  {
+    "source": "C077",
+    "target": "C134",
+    "relation": "extends"
+  },
+{
+  "source": "C003",
+  "target": "C002",
+  "relation": "supports"
+},
+{
+  "source": "C003",
+  "target": "C041",
+  "relation": "supports"
+},
+{
+  "source": "C004",
+  "target": "C013",
+  "relation": "supports"
+},
+{
+  "source": "C005",
+  "target": "C019",
+  "relation": "supports"
+},
+{
+  "source": "C006",
+  "target": "C012",
+  "relation": "supports"
+},
+{
+  "source": "C007",
+  "target": "C018",
+  "relation": "supports"
+},
+{
+  "source": "C011",
+  "target": "C017",
+  "relation": "enables"
+},
+{
+  "source": "C011",
+  "target": "C028",
+  "relation": "enables"
+},
+{
+  "source": "C013",
+  "target": "C017",
+  "relation": "supports"
+},
+{
+  "source": "C014",
+  "target": "C028",
+  "relation": "supports"
+},
+{
+  "source": "C015",
+  "target": "C028",
+  "relation": "enables"
+},
+{
+  "source": "C016",
+  "target": "C044",
+  "relation": "supports"
+},
+{
+  "source": "C017",
+  "target": "C044",
+  "relation": "supports"
+},
+{
+  "source": "C018",
+  "target": "C039",
+  "relation": "enables"
+},
+{
+  "source": "C018",
+  "target": "C040",
+  "relation": "enables"
+},
+{
+  "source": "C021",
+  "target": "C056",
+  "relation": "supports"
+},
+{
+  "source": "C022",
+  "target": "C056",
+  "relation": "supports"
+},
+{
+  "source": "C024",
+  "target": "C068",
+  "relation": "supports"
+},
+{
+  "source": "C025",
+  "target": "C068",
+  "relation": "supports"
+},
+{
+  "source": "C026",
+  "target": "C057",
+  "relation": "supports"
+},
+{
+  "source": "C027",
+  "target": "C034",
+  "relation": "depends_on"
+},
+{
+  "source": "C028",
+  "target": "C034",
+  "relation": "depends_on"
+},
+{
+  "source": "C029",
+  "target": "C043",
+  "relation": "enables"
+},
+{
+  "source": "C030",
+  "target": "C077",
+  "relation": "supports"
+},
+{
+  "source": "C031",
+  "target": "C060",
+  "relation": "supports"
+},
+{
+  "source": "C031",
+  "target": "C076",
+  "relation": "extends"
+},
+{
+  "source": "C032",
+  "target": "C077",
+  "relation": "supports"
+},
+{
+  "source": "C033",
+  "target": "C077",
+  "relation": "supports"
+},
+{
+  "source": "C034",
+  "target": "C060",
+  "relation": "supports"
+},
+{
+  "source": "C035",
+  "target": "C062",
+  "relation": "supports"
+},
+{
+  "source": "C036",
+  "target": "C060",
+  "relation": "extends"
+},
+{
+  "source": "C037",
+  "target": "C065",
+  "relation": "supports"
+},
+{
+  "source": "C038",
+  "target": "C059",
+  "relation": "supports"
+},
+{
+  "source": "C039",
+  "target": "C052",
+  "relation": "extends"
+},
+{
+  "source": "C040",
+  "target": "C052",
+  "relation": "extends"
+},
+{
+  "source": "C043",
+  "target": "C044",
+  "relation": "supports"
+},
+{
+  "source": "C044",
+  "target": "C045",
+  "relation": "supports"
+},
+{
+  "source": "C045",
+  "target": "C046",
+  "relation": "supports"
+},
+{
+  "source": "C046",
+  "target": "C047",
+  "relation": "supports"
+},
+{
+  "source": "C047",
+  "target": "C048",
+  "relation": "supports"
+}
