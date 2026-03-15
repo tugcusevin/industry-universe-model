@@ -3,7 +3,7 @@
 A layered conceptual framework explaining the evolutionary transition  
 from Lean Manufacturing to Industry 4.0 and Industry 5.0.
 
-![Industry Universe Model](docs/industry_universe_model.png)
+![Industry Universe Model](industry_universe_model.png)
 
 ---
 
