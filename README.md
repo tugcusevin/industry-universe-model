@@ -1,5 +1,4 @@
 ## Industry Universe Model
-
 ![Industry Universe Model](docs/industry_universe_model.png)
 
 # Industry Universe Model
